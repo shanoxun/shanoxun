@@ -39,12 +39,6 @@ First-year prep student at ESME. I run a home server (Ubuntu, Docker, CasaOS, Ta
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mathys-shan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
